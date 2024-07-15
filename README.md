@@ -77,11 +77,6 @@ This repository contains a curated list of important papers in Natural Language 
 | --- | --- |
 | Universal Language Model Fine-tuning for Text Classification | [Link](https://arxiv.org/abs/1801.06146) |
 
-## Contributing
-
-If you would like to contribute to this list, please open a pull request with the following information:
-- Paper title
-- Link to the paper
 
 ## License
 
