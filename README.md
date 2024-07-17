@@ -77,8 +77,3 @@ This repository contains a curated list of important papers in Natural Language 
 | Paper | Link |
 | --- | --- |
 | Universal Language Model Fine-tuning for Text Classification | [Link](https://arxiv.org/abs/1801.06146) |
-
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
