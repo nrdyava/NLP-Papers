@@ -33,6 +33,7 @@ This repository contains a curated list of important papers in Natural Language 
 
 | Paper | Link |
 | --- | --- |
+| Neural Machine Translation by Jointly Learning to Align and Translate | [Link](https://arxiv.org/abs/1409.0473) |
 | Attention Is All You Need | [Link](https://arxiv.org/abs/1706.03762) |
 
 ## Text Classification
