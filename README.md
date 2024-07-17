@@ -5,6 +5,7 @@ This repository contains a curated list of important papers in Natural Language 
 ## Table of Contents
 
 - [Word Embeddings](#word-embeddings)
+- [Tokenizers](#tokenizers)
 - [Language Models](#language-models)
 - [Machine Translation](#machine-translation)
 - [Text Classification](#text-classification)
@@ -21,6 +22,12 @@ This repository contains a curated list of important papers in Natural Language 
 | --- | --- |
 | Efficient Estimation of Word Representations in Vector Space | [Link](https://arxiv.org/abs/1301.3781) |
 | GloVe: Global Vectors for Word Representation | [Link](https://www.aclweb.org/anthology/D14-1162/) |
+
+## Tokenizers
+
+| Paper | Link |
+| --- | --- |
+| SentencePiece | [Link](https://github.com/google/sentencepiece) |
 
 ## Language Models
 
